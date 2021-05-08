@@ -3,7 +3,7 @@
 # AdGuard
 # https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
 # https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
 # https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.tx
 # https://www.fanboy.co.nz/r/fanboy-ultimate.txt
 https://fanboy.co.nz/fanboy-antifacebook.txt
 https://fanboy.co.nz/fanboy-antifonts.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 # uB0 
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
@@ -25,8 +26,10 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
 # extra
 https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
-
+https://github.com/DandelionSprout/adfilt/raw/master/AdRemovalListForUnusualAds.txt
+https://github.com/DandelionSprout/adfilt/raw/master/EmptyPaddingRemover.txt
+https://github.com/DandelionSprout/adfilt/raw/master/StopAutoplayOnYouTube.txt
+https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
+https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
 # https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt
 # https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
-# https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
-# https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
