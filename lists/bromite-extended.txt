@@ -24,13 +24,18 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
 
 # extra
+https://github.com/pidus/adblock/raw/master/static
+https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/raw/master/TOP_EU_US_Ads_Trackers_ABP
 https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
 https://github.com/DandelionSprout/adfilt/raw/master/AdRemovalListForUnusualAds.txt
 https://github.com/DandelionSprout/adfilt/raw/master/BrowseWebsitesWithoutLoggingIn.txt
 https://github.com/DandelionSprout/adfilt/raw/master/EmptyPaddingRemover.txt
 https://github.com/DandelionSprout/adfilt/raw/master/StopAutoplayOnYouTube.txt
+https://crapblock.theel0ja.info/crapblock-annoyances.txt
+https://crapblock.theel0ja.info/even-cleaner-news-sites.txt
 https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
+
 # https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt
 # https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
