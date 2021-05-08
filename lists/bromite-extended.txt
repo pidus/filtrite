@@ -27,6 +27,7 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
 https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
 https://github.com/DandelionSprout/adfilt/raw/master/AdRemovalListForUnusualAds.txt
+https://github.com/DandelionSprout/adfilt/raw/master/BrowseWebsitesWithoutLoggingIn.txt
 https://github.com/DandelionSprout/adfilt/raw/master/EmptyPaddingRemover.txt
 https://github.com/DandelionSprout/adfilt/raw/master/StopAutoplayOnYouTube.txt
 https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
