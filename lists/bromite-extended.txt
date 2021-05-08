@@ -1,13 +1,17 @@
+# Use with NextDNS
+
 # AdGuard
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+# https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
+# https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+# https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+# https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.txt
 
 # Easy List
-https://www.fanboy.co.nz/r/fanboy-ultimate.txt
+# https://www.fanboy.co.nz/r/fanboy-ultimate.txt
+https://fanboy.co.nz/fanboy-antifacebook.txt
 https://fanboy.co.nz/fanboy-antifonts.txt
 
 # uB0 
@@ -19,10 +23,10 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
 
 # extra
-# https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
-# CNAME record trackers
+https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt
+https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
+
+# https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt
 # https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
-# Annoyances on Twitter
 # https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
-# My own block list
 # https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
