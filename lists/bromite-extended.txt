@@ -26,5 +26,6 @@ https://github.com/DandelionSprout/adfilt/raw/master/StopAutoplayOnYouTube.txt
 
 https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt
 https://fanboy.co.nz/fanboy-antifonts.txt
+https://www.i-dont-care-about-cookies.eu/abp/
 
 https://github.com/pidus/adblock/raw/master/static
