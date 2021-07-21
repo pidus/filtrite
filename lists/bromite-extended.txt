@@ -23,7 +23,7 @@ https://github.com/DandelionSprout/adfilt/raw/master/AdRemovalListForUnusualAds.
 https://github.com/DandelionSprout/adfilt/raw/master/BrowseWebsitesWithoutLoggingIn.txt
 https://github.com/DandelionSprout/adfilt/raw/master/EmptyPaddingRemover.txt
 https://github.com/DandelionSprout/adfilt/raw/master/StopAutoplayOnYouTube.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://github.com/DandelionSprout/adfilt/raw/master/LegitimateURLShortener.txt
 
 https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt
 
